@@ -1,2 +1,3 @@
 Ð?n c? con kh? cung hi?u du?c l?nh Git
 add dang ky thay doi trong index
+pull lay noi dung cua remote repository
