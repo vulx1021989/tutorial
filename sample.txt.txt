@@ -1,3 +1,7 @@
 Ð?n c? con kh? cung hi?u du?c l?nh Git
 add dang ky thay doi trong index
+<<<<<<< HEAD
 commit lua lai trang thani commit
+=======
+pull lay noi dung cua remote repository
+>>>>>>> af79a0949bf2b4fdc8ae98335575e43046faebd0
